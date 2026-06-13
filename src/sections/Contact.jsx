@@ -96,7 +96,7 @@ function Contact() {
             </div>
 
             <div>
-              <a href="/Khushi_Resume.pdf"
+              <a href="/Resume.pdf"
               download
              rel="noreferrer"
              className="
