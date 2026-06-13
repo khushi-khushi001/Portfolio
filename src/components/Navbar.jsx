@@ -18,7 +18,7 @@ function Navbar() {
        justify-between items-center">
 
         <h1 className="text-3xl font-bold text-cyan-400">
-          Khushi.dev
+          Khushi • MERN Developer
         </h1>
 
         {/* Desktop Menu */}
