@@ -1,4 +1,4 @@
-import SectionWrapper from "../components/SectionWrapper";
+
 
 function About() {
   return (
